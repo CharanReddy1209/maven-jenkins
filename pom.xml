@@ -44,7 +44,7 @@
   	</distributionManagement>
 	
 	<build>
-		<finalname>netflix</finalname>
+	<finalName>netflix</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
